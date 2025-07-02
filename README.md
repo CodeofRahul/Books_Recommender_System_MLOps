@@ -40,3 +40,4 @@ mkdir notebook
 null> notebook/research.ipynb
 ```
 
+**Dataset Link**: https://www.kaggle.com/datasets/saurabhbagchi/books-dataset
