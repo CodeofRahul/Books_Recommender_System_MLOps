@@ -28,3 +28,15 @@ conda activate books/
 pip install -r requirements.txt
 ```
 
+**Create folder/dir**
+
+```bash
+mkdir notebook
+```
+
+**Create a file**
+
+```bash
+null> notebook/research.ipynb
+```
+
