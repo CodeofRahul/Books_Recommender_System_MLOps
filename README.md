@@ -1,6 +1,4 @@
-# Books_Recommender_System_MLOps
-
-# End-to-End Book Recommender System
+# End-to-End Book Recommender System MLops
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
