@@ -1,9 +1,9 @@
-# End-to-End Book Recommender System MLops
+# End-to-End Book Recommender System MLOps
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/entbappy/End-to-End-Book-Recommender-System?style=social)](https://github.com/entbappy/End-to-End-Book-Recommender-System)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue.svg?logo=linkedin)](YOUR_LINKEDIN_PROFILE_URL_HERE)
+[![GitHub Stars](https://img.shields.io/github/stars/CodeofRahul/End-to-End-Book-Recommender-System?style=social)](https://github.com/CodeofRahul/End-to-End-Book-Recommender-System)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue.svg?logo=linkedin)](https://www.linkedin.com/in/rahulkumarsah2/)
 
 ## 📚 Project Overview
 
@@ -208,6 +208,6 @@ Feel free to connect with me for any questions or collaborations!
 
 **Rahul Kumar Sah**
 
-- [GitHub](https://github.com/codeofrahul)
+- [GitHub](https://github.com/CodeofRahul)
 
 - [LinkedIn](https://www.linkedin.com/in/rahulkumarsah2/)
